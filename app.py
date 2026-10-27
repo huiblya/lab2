@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 from pprint import pprint
 
 pathToHash = "../data/hash.json"
+
 filepath =  "../data/src/SweetGirls.jpeg"
 
 formats = ["heic","jxl","avif","webp", "qoi", "jpeg", "png"]
